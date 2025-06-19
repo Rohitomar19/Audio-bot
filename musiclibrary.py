@@ -1,0 +1,22 @@
+music = {
+    "duniya jala do": "https://www.youtube.com/watch?v=qjjj1wsGJeg",
+    "mann": "https://www.youtube.com/watch?v=eTucXMU8ctw",
+    "aap ki aankhon me kuchh": "https://www.youtube.com/watch?v=2bj0Akp2sWo",
+    "ye tune kya kiya": "https://www.youtube.com/watch?v=mt-5ZbKqiDc",
+    "kesariya": "https://www.youtube.com/watch?v=BddP6PYo2gs",
+    "apna bana le": "https://www.youtube.com/watch?v=E6Pb9YNRzGY",
+    "chaleya": "https://www.youtube.com/watch?v=YxWlaYCA8MU",
+    "tum hi ho": "https://www.youtube.com/watch?v=Umqb9KENgmk",
+    "raat bhar": "https://www.youtube.com/watch?v=3gYzzJ3RZgo",
+    "tu hai ki nahi": "https://www.youtube.com/watch?v=zdiZ6Bq67nI",
+    "shree hanuman chalisa": "https://www.youtube.com/watch?v=AETFvQonfV8",
+    "believer": "https://www.youtube.com/watch?v=7wtfhZwyrcc",
+    "maan meri jaan": "https://www.youtube.com/watch?v=d2lQwJ8U4iY",
+    "heeriye": "https://www.youtube.com/watch?v=Ue9w5YyUVnI",
+    "pehli dafa": "https://www.youtube.com/watch?v=BW5wnvpYyHc",
+    "muskurane": "https://www.youtube.com/watch?v=u9Dg-g7t2l4",
+    "sun raha hai": "https://www.youtube.com/watch?v=UfejhBo3z4M",
+    "bekhayali": "https://www.youtube.com/watch?v=FJ55SHCzt88",
+    "tera ban jaunga": "https://www.youtube.com/watch?v=2p6PjCKG3vM",
+    "tum mile": "https://www.youtube.com/watch?v=gOd3tan59BE"
+}
